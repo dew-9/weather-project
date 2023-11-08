@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+.percwind {
+  color: rgb(61, 61, 210);
+  font-size: 15px;
+}
+.current-weather {
+  font-size: 50px;
+}
+.col {
+  border: 3px;
+  border-color: grey;
+  padding: 2px;
+}
+.card-title {
+  font-weight: bold;
+  font-size: 40px;
+}
+#date {
+  font-size: 20px;
+  color: rgb(163, 163, 163);
+}
